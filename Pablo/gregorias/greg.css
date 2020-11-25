@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+ 
+h1 {
+    font-size: 300%;
+    text-transform: capitalize;
+}
+ 
+p {
+    font-size: 150%;
+}
+ 
+.blanco{
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+ 
+p.claro {
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+ 
+p.oscuro {
+    color: hsl(35, 100%, 55%);
+    font-family: monospace;
+    font-size: 200%;
+}
+ 
+p.rojizo {
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+}
