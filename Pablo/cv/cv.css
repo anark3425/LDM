@@ -5,4 +5,40 @@ h1{
     color: #333333;
     font-family: monospace;
     text-transform: uppercase;
+    text-align: center;
+    font-size: 250%;
+}
+h2 {
+    background-color:#7B929D;
+    color: #415058;
+    font-size: 200%;    
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: #98AAB3;
+    color: #576B75;
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: #B6C2C9;
+}
+
+em {
+    color: #0088CC;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: #006699;
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
 }
